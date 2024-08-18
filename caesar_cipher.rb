@@ -21,5 +21,3 @@ def caesar_cipher(string, key)
 
   new_string.pack("c*")
 end
-
-p caesar_cipher("What a string!", 5)
